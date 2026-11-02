@@ -1,0 +1,9 @@
+{
+  "file": "tool-results-walkthrough.mp4",
+  "duration_seconds": 90,
+  "slides": 9,
+  "source": "Authenticated MCP Inspector 2.13.0 checks of 14 read-only tools against synthetic TEST data on November 2, 2026",
+  "format": "Text walkthrough of actual captured outputs, not a screen recording or a ChatGPT interaction",
+  "sha256": "18a1534e57a2f161d5ea2350a2f8a610faf1f3889b8445f3d6b727a1847b2335",
+  "bytes": 495439
+}

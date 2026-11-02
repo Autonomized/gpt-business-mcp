@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gpt-business",
+  "version": "1.0.0",
+  "description": "Read-only access to your own GPT Business workspace (business profile, tasks, appointments and single records), plus free calculators and playbooks for service businesses. Makes no calls, sends no messages and changes nothing.",
+  "author": {
+    "name": "GPT Business",
+    "email": "Support@GPTBusiness.io",
+    "url": "https://gptbusiness.io"
+  },
+  "homepage": "https://gptbusiness.io/mcp/",
+  "keywords": [
+    "business",
+    "crm",
+    "tasks",
+    "appointments",
+    "invoices",
+    "quotes",
+    "field service"
+  ]
+}
