@@ -1,0 +1,14 @@
+{
+  "verified_date": "2026-11-02",
+  "host": "ChatGPT private TEST connector",
+  "workspace": "GPT Business TEST (sandbox)",
+  "publisher_scan": "14 tools discovered; no findings",
+  "tool_calls_passed": 14,
+  "missing_resource_error_cases_passed": 3,
+  "pagination_passed": true,
+  "directory_positive_cases_passed": 5,
+  "scope_negative_checks": "sending, writes and other-business queries unavailable in advertised interface; backend rejection not exercised by these prompts",
+  "blocked_task_result": "empty; owner/blocker display not exercised",
+  "marketplace_status": "not submitted; not published",
+  "support": "Support@GPTBusiness.io"
+}
