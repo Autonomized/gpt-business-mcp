@@ -9,6 +9,6 @@
   "directory_positive_cases_passed": 5,
   "scope_negative_checks": "sending, writes and other-business queries unavailable in advertised interface; backend rejection not exercised by these prompts",
   "blocked_task_result": "empty; owner/blocker display not exercised",
-  "marketplace_status": "not submitted; not published",
+  "marketplace_status": "submitted for review; not approved or published",
   "support": "Support@GPTBusiness.io"
 }

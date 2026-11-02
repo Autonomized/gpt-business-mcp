@@ -26,7 +26,7 @@ Try asking which tasks are blocked; calculate a quote for three hours at $95 and
 
 On November 2, 2026, all 14 tools passed authenticated calls through official MCP Inspector 2.13.0 using an isolated populated TEST workspace; ten expected-value assertions passed. Claude custom connector OAuth and 14-tool discovery succeeded. On the same date, ChatGPT custom-plugin OAuth, all 14 tool calls, three missing-resource error cases, and real pagination passed on the synthetic TEST workspace. The five directory positive scenarios passed; the blocked-task case returned no records. Three prohibited-action prompts were confirmed unavailable at the interface, not backend rejection tests. Claude in-chat evaluation remains pending.
 
-The official MCP Registry entry `io.gptbusiness/gpt-business` version `1.0.0` is active. This is not approval by ChatGPT, Claude, Cursor, Grok, or another marketplace. Those listings remain subject to their own reviews.
+The official MCP Registry entry `io.gptbusiness/gpt-business` version `1.0.0` is active. This is not approval by ChatGPT, Claude, Cursor, Grok, or another marketplace. GPT Business version 1.0.0 was submitted to OpenAI on November 2, 2026 and is in review, not approved or published. Other listings remain subject to their own reviews.
 
 [Tool-results walkthrough](review/tool-results-walkthrough.mp4) shows captured Inspector results from synthetic data. It is a text walkthrough, not a screen recording of ChatGPT or evidence that a host review passed.
 
